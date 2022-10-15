@@ -2,3 +2,7 @@ h1 {
   color: red;
   background-color: #0f0;
 }
+
+img {
+  width: 100%;
+}
